@@ -1,0 +1,48 @@
+AI TUTOR
+MATERI 3: MORFOLOGI
+
+A. Pengertian Morfologi
+Morfologi adalah cabang linguistik yang mempelajari struktur kata, bentuk kata, serta proses pembentukan kata.
+
+B. Morfem
+Morfem adalah satuan bahasa terkecil yang memiliki makna atau fungsi gramatikal.
+Contoh:
+ber- + jalan = berjalan
+di- + tulis = ditulis
+Kata berjalan terdiri atas morfem ber- dan jalan.
+
+C. Kata Dasar
+Kata dasar adalah kata yang belum mengalami proses pembentukan dengan afiks tertentu.
+Contoh: tulis, baca, makan, rumah, jalan.
+
+D. Afiksasi
+Afiksasi adalah proses pembentukan kata dengan menambahkan imbuhan.
+Jenis imbuhan:
+1. Prefiks (awalan): me-, ber-, ter-, di-, ke-, se-.
+2. Sufiks (akhiran): -kan, -i, -an.
+3. Infiks (sisipan): -el-, -em-, -er-.
+4. Konfiks: ke-...-an, pe-...-an, per-...-an.
+Contoh:
+me- + tulis = menulis
+ke- + indah + -an = keindahan
+pe- + ajar + -an = pelajaran
+
+E. Reduplikasi
+Reduplikasi adalah proses pengulangan bentuk bahasa.
+Jenisnya antara lain:
+1. Pengulangan seluruh: rumah-rumah.
+2. Pengulangan sebagian: lelaki.
+3. Pengulangan dengan perubahan bunyi: sayur-mayur.
+4. Pengulangan yang mendapat afiks: berlari-lari.
+
+F. Komposisi
+Komposisi atau pemajemukan adalah proses menggabungkan dua kata atau lebih sehingga membentuk satu kesatuan makna.
+Contoh: rumah sakit, kereta api, meja makan.
+
+G. Derivasi dan Infleksi
+Derivasi menghasilkan bentuk baru yang dapat mengubah kategori atau makna kata.
+Infleksi menghasilkan bentuk gramatikal tanpa membentuk leksem baru dalam pengertian yang sama.
+Dalam Bahasa Indonesia, proses morfologis yang sering dibahas meliputi afiksasi, reduplikasi, dan komposisi.
+
+RANGKUMAN
+Morfologi mempelajari struktur dan pembentukan kata. Proses utama yang perlu dipahami adalah afiksasi, reduplikasi, dan komposisi serta konsep morfem dan kata dasar.

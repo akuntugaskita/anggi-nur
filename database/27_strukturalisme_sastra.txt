@@ -1,0 +1,38 @@
+﻿STRUKTURALISME SASTRA
+=====================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Strukturalisme memandang karya sastra sebagai struktur otonom yang maknanya lahir dari hubungan antarunsur.
+
+
+KONSEP KUNCI
+------------
+- Tokoh: Ferdinand de Saussure, Roman Jakobson, Todorov, Greimas, Levi-Strauss.
+- Prinsip: totalitas, transformasi, regulasi diri.
+- Analisis intrinsik: tema, alur, tokoh, latar, gaya.
+- Naratologi (Genette): urutan, durasi, frekuensi, fokalisasi.
+- Model aktan Greimas: subjek, objek, pengirim, penerima, penolong, penentang.
+- Kelemahan: mengabaikan konteks sosial dan pembaca.
+
+
+CONTOH
+------
+Analisis aktan pada dongeng Cinderella: subjek = Cinderella, objek = cinta pangeran.
+
+
+LATIHAN
+-------
+1. Buat skema aktan cerita rakyat.
+2. Jelaskan kelebihan dan kekurangan strukturalisme.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar representasi graf struktur naratif dan analisis aktan otomatis.
+
+KATA KUNCI
+----------
+struktur, aktan, naratologi, otonom

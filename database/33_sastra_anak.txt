@@ -1,0 +1,37 @@
+﻿SASTRA ANAK
+===========
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Sastra anak adalah karya yang sesuai dunia, minat, dan tahap perkembangan anak.
+
+
+KONSEP KUNCI
+------------
+- Jenis: buku bergambar, dongeng, fabel, puisi anak, cerita realistik, cerita fantasi, komik.
+- Kriteria: bahasa sederhana, tema dekat anak, nilai moral, ilustrasi menarik.
+- Tahap perkembangan: pra-baca, awal baca, membaca lanjut.
+- Fungsi: hiburan, pengembangan bahasa, imajinasi, karakter.
+- Pemanfaatan untuk anak berkebutuhan khusus: cerita visual, media interaktif.
+
+
+CONTOH
+------
+Fabel "Si Kancil dan Buaya" menanamkan nilai kecerdikan dan kejujuran.
+
+
+LATIHAN
+-------
+1. Nilai kelayakan satu buku cerita anak dengan rubrik.
+2. Tulis dongeng pendek 150 kata untuk usia 6-8 tahun.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar generasi cerita anak, pengukuran keterbacaan (readability), dan filter keamanan konten.
+
+KATA KUNCI
+----------
+fabel, buku bergambar, perkembangan anak, nilai moral

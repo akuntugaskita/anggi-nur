@@ -1,0 +1,37 @@
+﻿APRESIASI SASTRA
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Apresiasi sastra adalah kegiatan menghargai, menikmati, dan memahami karya sastra secara sungguh-sungguh.
+
+
+KONSEP KUNCI
+------------
+- Tingkat apresiasi: menikmati, mengenal, menghargai, menilai.
+- Kegiatan: membaca, menulis, menganalisis, mementaskan, mendeklamasikan.
+- Teknik pembacaan puisi: vokal, intonasi, ekspresi, penghayatan, gestur.
+- Menulis resensi: identitas, sinopsis, keunggulan, kelemahan, rekomendasi.
+- Peran apresiasi dalam pembentukan karakter.
+
+
+CONTOH
+------
+Musikalisasi puisi memadukan bait puisi dengan melodi.
+
+
+LATIHAN
+-------
+1. Deklamasikan satu puisi dan nilai teman dengan rubrik.
+2. Tulis resensi novel Indonesia.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar sistem rekomendasi bacaan dan tutor apresiasi sastra berbasis AI.
+
+KATA KUNCI
+----------
+apresiasi, deklamasi, resensi, penghayatan

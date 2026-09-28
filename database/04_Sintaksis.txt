@@ -1,0 +1,53 @@
+AI TUTOR
+MATERI 4: SINTAKSIS
+
+A. Pengertian Sintaksis
+Sintaksis adalah cabang linguistik yang mempelajari hubungan dan susunan kata dalam frasa, klausa, dan kalimat.
+
+B. Frasa
+Frasa adalah gabungan dua kata atau lebih yang tidak memiliki hubungan predikatif.
+Contoh:
+- rumah besar
+- sangat indah
+- sedang belajar
+
+Jenis frasa dapat dibedakan berdasarkan kategori inti, misalnya frasa nominal, verbal, adjektival, adverbial, dan preposisional.
+
+C. Klausa
+Klausa adalah satuan gramatikal yang sekurang-kurangnya memiliki predikat dan berpotensi menjadi kalimat.
+Contoh: adik membaca.
+Pada contoh tersebut, adik berfungsi sebagai subjek dan membaca sebagai predikat.
+
+D. Kalimat
+Kalimat adalah satuan bahasa yang relatif lengkap dan dapat mengungkapkan pikiran yang utuh.
+Unsur kalimat dapat berupa:
+1. Subjek (S)
+2. Predikat (P)
+3. Objek (O)
+4. Pelengkap (Pel)
+5. Keterangan (K)
+
+Contoh:
+Rina membaca buku di perpustakaan.
+Rina = S
+membaca = P
+buku = O
+di perpustakaan = K
+
+E. Jenis Kalimat Berdasarkan Struktur
+1. Kalimat tunggal: memiliki satu klausa utama.
+2. Kalimat majemuk: terdiri atas dua klausa atau lebih.
+
+F. Kalimat Berdasarkan Fungsi
+1. Deklaratif: menyampaikan informasi.
+2. Interogatif: menanyakan sesuatu.
+3. Imperatif: memberikan perintah atau permintaan.
+4. Eksklamatif: mengungkapkan rasa kagum, heran, atau emosi.
+
+G. Keefektifan Kalimat
+Kalimat efektif harus memiliki kesatuan gagasan, kepaduan, keparalelan, kehematan, kecermatan, dan ketepatan.
+Contoh tidak efektif: Para siswa-siswa sedang belajar.
+Perbaikan: Para siswa sedang belajar.
+
+RANGKUMAN
+Sintaksis mempelajari cara kata disusun menjadi frasa, klausa, dan kalimat. Pemahaman sintaksis penting untuk menghasilkan kalimat yang jelas, logis, dan efektif.

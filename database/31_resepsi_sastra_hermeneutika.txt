@@ -1,0 +1,37 @@
+﻿RESEPSI SASTRA DAN HERMENEUTIKA
+===============================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Resepsi sastra meneliti tanggapan pembaca terhadap karya; hermeneutika membahas penafsiran teks.
+
+
+KONSEP KUNCI
+------------
+- Estetika resepsi: Hans Robert Jauss (cakrawala harapan), Wolfgang Iser (pembaca implisit, ruang kosong).
+- Pembaca: implisit, eksplisit, ideal.
+- Resepsi sinkronis dan diakronis.
+- Hermeneutika: Schleiermacher, Dilthey, Gadamer, Ricoeur; lingkaran hermeneutik.
+- Metode: angket, wawancara, kritik dan ulasan.
+
+
+CONTOH
+------
+Novel yang sama ditafsirkan berbeda oleh pembaca era 1920 dan era digital.
+
+
+LATIHAN
+-------
+1. Rancang angket resepsi untuk cerpen di kelas.
+2. Jelaskan cakrawala harapan Jauss.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar analisis ulasan pembaca dan sentiment analysis opini.
+
+KATA KUNCI
+----------
+resepsi, pembaca, cakrawala harapan, hermeneutik

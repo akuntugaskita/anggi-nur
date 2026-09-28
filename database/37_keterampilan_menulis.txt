@@ -1,0 +1,37 @@
+﻿KETERAMPILAN MENULIS
+====================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Menulis adalah kegiatan mengungkapkan gagasan dalam bentuk tulisan yang terstruktur.
+
+
+KONSEP KUNCI
+------------
+- Tahap: prapenulisan, penulisan draf, revisi, penyuntingan, publikasi.
+- Jenis paragraf: deduktif, induktif, campuran, deskriptif, naratif.
+- Jenis karangan: narasi, deskripsi, eksposisi, argumentasi, persuasi.
+- Ciri paragraf baik: kesatuan, kepaduan, kelengkapan.
+- Kalimat topik, pengembang, penutup.
+
+
+CONTOH
+------
+Paragraf deduktif: kalimat utama di awal, lalu penjelasan.
+
+
+LATIHAN
+-------
+1. Tulis esai eksposisi 300 kata.
+2. Ubah paragraf deduktif menjadi induktif.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar automated essay scoring dan asisten menulis.
+
+KATA KUNCI
+----------
+paragraf, kalimat utama, narasi, eksposisi, argumentasi

@@ -1,0 +1,36 @@
+﻿PSIKOLOGI SASTRA
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Psikologi sastra menganalisis aspek kejiwaan pengarang, tokoh, dan pembaca.
+
+
+KONSEP KUNCI
+------------
+- Psikoanalisis Freud: id, ego, superego; alam sadar dan bawah sadar; mekanisme pertahanan diri (represi, proyeksi, sublimasi).
+- Jung: arketipe, persona, anima-animus, ketidaksadaran kolektif.
+- Humanistik Maslow: hierarki kebutuhan.
+- Objek: tokoh fiktif, proses kreatif pengarang, efek pada pembaca.
+
+
+CONTOH
+------
+Tokoh yang menekan trauma masa kecil menunjukkan mekanisme represi.
+
+
+LATIHAN
+-------
+1. Analisis kepribadian tokoh utama berdasarkan id, ego, superego.
+2. Bedakan pendekatan Freud dan Jung.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar emotion detection untuk menganalisis emosi tokoh dalam teks.
+
+KATA KUNCI
+----------
+psikoanalisis, id, ego, arketipe, katarsis

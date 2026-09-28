@@ -1,0 +1,37 @@
+﻿EJAAN BAHASA INDONESIA (EYD EDISI V)
+====================================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Ejaan adalah kaidah penulisan huruf, kata, dan tanda baca. Pedoman terkini adalah Pedoman Umum Ejaan Bahasa Indonesia (PUEBI) yang disempurnakan menjadi EYD Edisi V.
+
+
+KONSEP KUNCI
+------------
+- Pemakaian huruf kapital, huruf miring, huruf tebal.
+- Penulisan kata: kata dasar, turunan, ulang, gabungan, kata depan (di, ke, dari) dipisah, awalan di- dirangkai.
+- Singkatan dan akronim; angka dan bilangan.
+- Tanda baca: titik, koma, titik dua, titik koma, tanda hubung, tanda pisah, tanda petik, tanda kurung.
+- Penulisan unsur serapan.
+
+
+CONTOH
+------
+"di rumah" (kata depan, dipisah) vs "dimakan" (awalan, dirangkai).
+
+
+LATIHAN
+-------
+1. Perbaiki lima kalimat dengan kesalahan ejaan.
+2. Jelaskan aturan penggunaan koma pada anak kalimat.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pemeriksa ejaan dan grammar checker; aturan EYD dapat menjadi validator keluaran AI.
+
+KATA KUNCI
+----------
+ejaan, EYD, huruf kapital, tanda baca, kata serapan

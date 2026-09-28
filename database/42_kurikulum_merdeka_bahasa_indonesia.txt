@@ -1,0 +1,37 @@
+﻿STRATEGI DAN MODEL PEMBELAJARAN BAHASA
+======================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+Model pembelajaran adalah kerangka sistematis untuk mengorganisasi pengalaman belajar agar tujuan tercapai.
+
+
+KONSEP KUNCI
+------------
+- Pendekatan: komunikatif, kontekstual, saintifik, tematik, genre-based.
+- Metode: langsung, audiolingual, terjemahan tata bahasa, komunikatif.
+- Model: Problem Based Learning, Project Based Learning, Discovery Learning, Cooperative Learning (Jigsaw, TPS, STAD).
+- Pembelajaran berbasis teks (siklus genre): membangun konteks, pemodelan, konstruksi bersama, konstruksi mandiri.
+- Pemilihan model sesuai karakter siswa dan tujuan.
+
+
+CONTOH
+------
+Jigsaw untuk membaca teks eksposisi: setiap kelompok ahli membahas satu bagian.
+
+
+LATIHAN
+-------
+1. Bandingkan PBL dan PjBL.
+2. Rancang langkah pembelajaran menulis teks prosedur.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pembelajaran adaptif dan tutor cerdas yang menyesuaikan model belajar siswa.
+
+KATA KUNCI
+----------
+model, pendekatan, PBL, kooperatif, genre

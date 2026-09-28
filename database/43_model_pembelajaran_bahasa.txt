@@ -1,0 +1,38 @@
+﻿EVALUASI DAN ASESMEN PEMBELAJARAN BAHASA
+========================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+Evaluasi mengukur ketercapaian tujuan pembelajaran dan memberi umpan balik perbaikan.
+
+
+KONSEP KUNCI
+------------
+- Jenis asesmen: diagnostik, formatif, sumatif.
+- Teknik: tes tulis, tes lisan, unjuk kerja, portofolio, proyek, observasi, penilaian diri, penilaian sejawat.
+- Rubrik penilaian: kriteria, deskriptor, skor.
+- Kualitas soal: validitas, reliabilitas, daya beda, tingkat kesukaran.
+- Taksonomi Bloom revisi (C1-C6); HOTS.
+- Penilaian keterampilan: menyimak, berbicara, membaca, menulis.
+
+
+CONTOH
+------
+Rubrik menulis: isi, organisasi, diksi, ejaan.
+
+
+LATIHAN
+-------
+1. Buat rubrik penilaian pidato.
+2. Susun 5 soal HOTS teks eksplanasi.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pembuatan soal otomatis, generator soal HOTS, dan rubrik penilaian otomatis.
+
+KATA KUNCI
+----------
+asesmen, rubrik, validitas, reliabilitas, HOTS

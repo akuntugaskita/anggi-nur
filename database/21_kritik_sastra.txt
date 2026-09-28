@@ -1,0 +1,37 @@
+﻿KRITIK SASTRA
+=============
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Kritik sastra adalah kegiatan menganalisis, menafsirkan, dan menilai karya sastra secara sistematis.
+
+
+KONSEP KUNCI
+------------
+- Jenis: kritik teoretis, terapan, akademik, jurnalistik.
+- Pendekatan: mimetik, ekspresif, pragmatik, objektif.
+- Aliran: impresionistik, formalis, marxis, feminis, psikoanalisis.
+- Tahap: deskripsi, analisis, interpretasi, evaluasi.
+- Perbedaan kritik, esai sastra, dan resensi.
+
+
+CONTOH
+------
+Kritik struktural menganalisis hubungan antarunsur intrinsik dalam novel.
+
+
+LATIHAN
+-------
+1. Tulis kritik singkat (300 kata) atas satu cerpen.
+2. Bedakan kritik sastra dan resensi.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar analisis sentimen ulasan dan pembuatan draf resensi otomatis.
+
+KATA KUNCI
+----------
+kritik, interpretasi, evaluasi, resensi

@@ -1,0 +1,38 @@
+﻿METODOLOGI PENELITIAN PENDIDIKAN BAHASA
+=======================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+Metodologi penelitian mengatur cara ilmiah dalam menemukan, mengembangkan, dan menguji pengetahuan.
+
+
+KONSEP KUNCI
+------------
+- Pendekatan: kualitatif, kuantitatif, campuran.
+- Jenis: deskriptif, eksperimen, korelasional, Penelitian Tindakan Kelas (PTK), Research and Development (R&D).
+- Model R&D: ADDIE (Analysis, Design, Development, Implementation, Evaluation), 4D (Define, Design, Develop, Disseminate).
+- Instrumen: observasi, wawancara, angket, tes, dokumentasi.
+- Analisis data: reduksi, penyajian, penarikan kesimpulan (Miles dan Huberman); uji validitas dan reliabilitas.
+- Triangulasi.
+
+
+CONTOH
+------
+Pengembangan media ajar memakai ADDIE lalu divalidasi ahli materi dan ahli media.
+
+
+LATIHAN
+-------
+1. Tulis rumusan masalah dan tujuan penelitian.
+2. Buat kisi-kisi instrumen wawancara.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar analisis data teks, pengodean kualitatif berbantuan AI, dan alur pengembangan ADDIE.
+
+KATA KUNCI
+----------
+R&D, ADDIE, PTK, instrumen, triangulasi

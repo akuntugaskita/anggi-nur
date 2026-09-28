@@ -1,0 +1,37 @@
+﻿PENYUNTINGAN NASKAH
+===================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Penyuntingan (editing) adalah proses memeriksa dan memperbaiki naskah agar akurat, konsisten, dan sesuai kaidah bahasa.
+
+
+KONSEP KUNCI
+------------
+- Jenis: penyuntingan substansi dan penyuntingan bahasa (copyediting); pruf (proofreading).
+- Objek: ejaan, diksi, kalimat, paragraf, logika, fakta, format.
+- Tanda koreksi baku.
+- Etika: menghormati penulis, konfirmasi perubahan besar.
+- Alat: KBBI Daring, Pedoman EYD V, pemeriksa ejaan.
+
+
+CONTOH
+------
+Mengganti "merubah" dengan "mengubah" dan "resiko" dengan "risiko".
+
+
+LATIHAN
+-------
+1. Sunting naskah 300 kata dengan tanda koreksi.
+2. Buat daftar cek penyuntingan.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar koreksi tata bahasa otomatis; kaidah EYD sebagai pemeriksa berbasis aturan.
+
+KATA KUNCI
+----------
+copyediting, pruf, konsistensi, kaidah bahasa

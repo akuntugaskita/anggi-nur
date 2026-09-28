@@ -1,0 +1,37 @@
+﻿DRAMA DAN TEATER
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Drama adalah karya sastra yang dipentaskan melalui dialog dan aksi, dengan naskah sebagai dasarnya.
+
+
+KONSEP KUNCI
+------------
+- Unsur naskah: tema, tokoh, alur, latar, dialog (wawancang), petunjuk laku (kramagung), konflik.
+- Jenis: tragedi, komedi, tragikomedi, melodrama, farce.
+- Unsur pementasan: sutradara, aktor, tata panggung, tata cahaya, tata rias, musik.
+- Drama tradisional Nusantara: ketoprak, ludruk, lenong, randai, mak yong.
+- Tokoh: WS Rendra, N. Riantiarno, Arifin C. Noer.
+
+
+CONTOH
+------
+Lenong menggunakan dialog spontan dengan humor dan bahasa Betawi.
+
+
+LATIHAN
+-------
+1. Tulis naskah dialog tiga adegan bertema lingkungan.
+2. Analisis konflik pada satu naskah drama.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pembuatan dialog agent, skrip percakapan chatbot, dan speaker attribution.
+
+KATA KUNCI
+----------
+naskah, dialog, kramagung, pementasan, konflik

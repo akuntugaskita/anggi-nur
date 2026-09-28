@@ -1,0 +1,38 @@
+﻿ANALISIS WACANA
+===============
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Analisis wacana mengkaji bahasa di atas tataran kalimat, yakni bagaimana teks dan konteks membentuk makna utuh.
+
+
+KONSEP KUNCI
+------------
+- Wacana: satuan bahasa terlengkap; lisan atau tulis.
+- Kohesi gramatikal: referensi, substitusi, elipsis, konjungsi.
+- Kohesi leksikal: repetisi, sinonimi, antonimi, kolokasi.
+- Koherensi: hubungan makna antarbagian.
+- Jenis wacana: naratif, deskriptif, eksposisi, argumentasi, persuasi.
+- Analisis wacana kritis (Fairclough, van Dijk): teks, praktik wacana, praktik sosial.
+
+
+CONTOH
+------
+"Rina membeli buku. Ia membacanya semalam." Kata "ia" dan "-nya" adalah penanda kohesi referensial.
+
+
+LATIHAN
+-------
+1. Tandai penanda kohesi pada satu paragraf editorial.
+2. Analisis struktur makro sebuah berita.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar peringkasan teks, penilaian koherensi, dan coreference resolution.
+
+KATA KUNCI
+----------
+wacana, kohesi, koherensi, konteks, wacana kritis

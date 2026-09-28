@@ -1,0 +1,37 @@
+﻿KETERAMPILAN MEMBACA
+====================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Membaca adalah proses memperoleh makna dari teks tertulis melalui pengenalan kata dan pemahaman isi.
+
+
+KONSEP KUNCI
+------------
+- Jenis: membaca nyaring, dalam hati, intensif, ekstensif, cepat, kritis, pemahaman.
+- Teknik: skimming, scanning, SQ3R (Survey, Question, Read, Recite, Review).
+- Tingkat pemahaman: literal, inferensial, evaluatif, kreatif.
+- Kecepatan efektif membaca (KEM).
+- Literasi: literasi dasar, literasi baca-tulis, literasi digital.
+
+
+CONTOH
+------
+Scanning untuk mencari angka tahun di artikel sejarah.
+
+
+LATIHAN
+-------
+1. Terapkan SQ3R pada satu bab buku.
+2. Buat 5 pertanyaan literal dan 5 inferensial dari sebuah teks.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar skor keterbacaan, question answering, dan pemahaman bacaan oleh mesin.
+
+KATA KUNCI
+----------
+skimming, scanning, SQ3R, literasi, pemahaman

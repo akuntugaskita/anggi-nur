@@ -1,0 +1,27 @@
+﻿LEKSIKOGRAFI DAN PENYUSUNAN KAMUS
+Kategori: Linguistik
+
+DESKRIPSI
+Leksikografi adalah ilmu dan praktik penyusunan kamus. Leksikologi mengkaji kosakata secara teoretis, sedangkan leksikografi menerapkannya menjadi kamus.
+
+KONSEP KUNCI
+- Jenis kamus: ekabahasa, dwibahasa, tesaurus, kamus istilah, kamus etimologi, kamus daring.
+- Struktur entri: lema, lafal, kelas kata, definisi, contoh kalimat, etimologi, label bidang dan ragam.
+- Makrostruktur (urutan lema) dan mikrostruktur (isi tiap entri).
+- Teknik definisi: sinonim, genus-differentia, deskripsi, contoh.
+- Sejarah kamus: Kamus Umum Bahasa Indonesia (Poerwadarminta), KBBI oleh Badan Bahasa.
+- Kriteria lema baru: frekuensi, kebutuhan, keberterimaan, kesesuaian kaidah.
+
+CONTOH
+Entri "unggah": kelas kata verba; definisi: mengirim berkas ke jaringan; padanan istilah upload.
+
+LATIHAN
+1. Susun 5 entri kamus mini tema pendidikan lengkap dengan kelas kata dan contoh kalimat.
+2. Bandingkan struktur entri KBBI Daring dengan kamus dwibahasa.
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Kamus dan tesaurus dipakai sebagai sumber pengetahuan leksikal untuk lemmatisasi, word sense disambiguation, dan pengecekan ejaan. Struktur entri yang rapi juga mudah diubah menjadi data terstruktur (JSON/CSV) untuk aplikasi AI.
+
+KATA KUNCI
+leksikografi, lema, entri, tesaurus, KBBI

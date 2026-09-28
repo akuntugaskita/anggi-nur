@@ -1,0 +1,37 @@
+﻿PENULISAN KARYA ILMIAH
+======================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Karya ilmiah adalah tulisan berdasarkan penelitian dan disusun dengan metode serta bahasa ilmiah.
+
+
+KONSEP KUNCI
+------------
+- Jenis: makalah, artikel jurnal, laporan, skripsi, tesis, disertasi.
+- Struktur skripsi: pendahuluan, kajian pustaka, metodologi, hasil dan pembahasan, simpulan.
+- Ciri: objektif, sistematis, lugas, akurat, dapat diverifikasi.
+- Sitasi dan daftar pustaka (APA, IEEE); parafrasa dan plagiarisme.
+- Abstrak dan kata kunci.
+
+
+CONTOH
+------
+Kutipan APA: (Chaer, 2012, hlm. 45).
+
+
+LATIHAN
+-------
+1. Tulis abstrak 150 kata untuk proposal.
+2. Susun daftar pustaka gaya APA untuk lima sumber.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar deteksi plagiarisme, sitasi otomatis, dan ringkasan literatur.
+
+KATA KUNCI
+----------
+skripsi, sitasi, plagiarisme, abstrak, APA

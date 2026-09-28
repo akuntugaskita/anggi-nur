@@ -1,0 +1,37 @@
+﻿KETERAMPILAN MENYIMAK
+=====================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Menyimak adalah proses mendengarkan, memahami, dan menanggapi bahasa lisan dengan penuh perhatian.
+
+
+KONSEP KUNCI
+------------
+- Jenis: ekstensif (santai, umum) dan intensif (kritis, konsentratif, interogatif, selektif, apresiatif).
+- Tahap: mendengar, mengenali, memahami, menginterpretasi, mengevaluasi, menanggapi.
+- Hambatan: fisik, psikologis, linguistik, lingkungan.
+- Strategi: mencatat poin, prediksi, parafrasa, bertanya klarifikasi.
+- Bahan: pidato, berita radio, podcast, dialog.
+
+
+CONTOH
+------
+Menyimak podcast lalu meringkas tiga gagasan utama.
+
+
+LATIHAN
+-------
+1. Simak satu berita dan tulis ringkasan 5W+1H.
+2. Bedakan menyimak dan mendengar.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar speech recognition, ringkasan podcast, dan pembuatan pertanyaan pemahaman otomatis.
+
+KATA KUNCI
+----------
+menyimak, konsentrasi, parafrasa, evaluasi

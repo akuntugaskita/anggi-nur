@@ -1,0 +1,38 @@
+﻿SEJARAH SASTRA INDONESIA
+========================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Perkembangan sastra Indonesia dibagi dalam periode berdasarkan kondisi sosial-politik dan corak karya.
+
+
+KONSEP KUNCI
+------------
+- Sastra Melayu Lama: hikayat, syair, pantun.
+- Angkatan Balai Pustaka (1920): Marah Rusli (Siti Nurbaya), Merari Siregar.
+- Pujangga Baru (1933): STA, Amir Hamzah, Sanusi Pane.
+- Angkatan 45: Chairil Anwar, Pramoedya Ananta Toer.
+- Angkatan 50-60-an, Angkatan 66, Angkatan 70-an, Angkatan Reformasi, sastra kontemporer.
+- Sastra cyber dan sastra digital.
+
+
+CONTOH
+------
+Chairil Anwar dikenal sebagai pelopor puisi bebas Angkatan 45.
+
+
+LATIHAN
+-------
+1. Buat tabel periodisasi sastra dan tokohnya.
+2. Bandingkan corak Balai Pustaka dan Pujangga Baru.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar digitalisasi korpus sastra dan klasifikasi periode atau gaya penulis.
+
+KATA KUNCI
+----------
+angkatan, periodisasi, Balai Pustaka, Pujangga Baru

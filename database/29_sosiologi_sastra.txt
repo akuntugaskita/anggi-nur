@@ -1,0 +1,37 @@
+﻿SOSIOLOGI SASTRA
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Sosiologi sastra mengkaji hubungan sastra dengan masyarakat, pengarang, dan pembaca.
+
+
+KONSEP KUNCI
+------------
+- Klasifikasi Wellek-Warren: sosiologi pengarang, sosiologi karya, sosiologi pembaca.
+- Tokoh: Lucien Goldmann (strukturalisme genetik), Georg Lukacs, Escarpit, Ian Watt.
+- Strukturalisme genetik: pandangan dunia (vision du monde), homologi.
+- Sastra sebagai dokumen sosial.
+- Isu: kelas, kemiskinan, kekuasaan, adat, migrasi.
+
+
+CONTOH
+------
+Roman "Siti Nurbaya" mencerminkan konflik adat dan modernitas.
+
+
+LATIHAN
+-------
+1. Analisis kondisi sosial dalam sebuah novel Indonesia.
+2. Jelaskan konsep homologi Goldmann.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar topic modeling isu sosial dalam novel dan analisis korpus berskala besar.
+
+KATA KUNCI
+----------
+masyarakat, pandangan dunia, homologi, kelas sosial

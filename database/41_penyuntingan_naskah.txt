@@ -1,0 +1,37 @@
+﻿KURIKULUM MERDEKA DAN PEMBELAJARAN BAHASA INDONESIA
+===================================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+Kurikulum Merdeka memberi fleksibilitas kepada guru dan siswa dengan pembelajaran berbasis capaian dan profil pelajar.
+
+
+KONSEP KUNCI
+------------
+- Capaian Pembelajaran (CP), alur tujuan pembelajaran (ATP), modul ajar.
+- Elemen Bahasa Indonesia: menyimak, membaca dan memirsa, berbicara dan mempresentasikan, menulis.
+- Profil Pelajar Pancasila; projek penguatan profil pelajar.
+- Pembelajaran berdiferensiasi; asesmen diagnostik, formatif, sumatif.
+- Fase A-F.
+
+
+CONTOH
+------
+Modul ajar: tujuan, kegiatan pendahuluan-inti-penutup, asesmen, media.
+
+
+LATIHAN
+-------
+1. Susun ATP Bahasa Indonesia fase D.
+2. Rancang modul ajar teks narasi.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar generator modul ajar dan ATP berbasis AI serta personalisasi perangkat ajar.
+
+KATA KUNCI
+----------
+CP, ATP, modul ajar, diferensiasi, profil pelajar

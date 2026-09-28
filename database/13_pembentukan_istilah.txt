@@ -1,0 +1,37 @@
+﻿PEMBENTUKAN ISTILAH DAN KATA SERAPAN
+====================================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Istilah adalah kata atau gabungan kata yang mengungkapkan konsep khusus dalam bidang ilmu tertentu.
+
+
+KONSEP KUNCI
+------------
+- Syarat istilah: tepat, hemat, lazim, nyaman didengar.
+- Sumber: kosakata umum, bahasa daerah, bahasa serumpun, bahasa asing.
+- Cara: penerjemahan, penyerapan, gabungan.
+- Penyerapan: adaptasi (analysis - analisis), adopsi (internet).
+- Lembaga: Badan Bahasa; daring: KBBI Daring, Pangkalan Data Istilah (RSNI).
+
+
+CONTOH
+------
+download - unduh; upload - unggah; software - perangkat lunak.
+
+
+LATIHAN
+-------
+1. Cari padanan lima istilah teknologi.
+2. Bedakan adaptasi dan adopsi.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar ekstraksi terminologi, glosarium otomatis, dan mesin penerjemah yang konsisten istilah.
+
+KATA KUNCI
+----------
+istilah, serapan, padanan, KBBI, penerjemahan

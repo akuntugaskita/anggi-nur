@@ -1,0 +1,38 @@
+﻿BIPA (BAHASA INDONESIA BAGI PENUTUR ASING)
+==========================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+BIPA adalah pembelajaran bahasa Indonesia untuk penutur asing dengan fokus komunikasi dan pemahaman budaya.
+
+
+KONSEP KUNCI
+------------
+- Tingkat kemampuan BIPA 1-7 (pemula sampai mahir); UKBI.
+- Prinsip: komunikatif, kontekstual, budaya, kebutuhan pemelajar.
+- Materi: perkenalan, transaksi, transportasi, kuliner, budaya lokal.
+- Interferensi bahasa ibu; kontrastif dan analisis kesalahan.
+- Media: realia, video, aplikasi, kunjungan lapangan.
+- Peran guru: fasilitator dan mediator budaya.
+
+
+CONTOH
+------
+Simulasi tawar-menawar di pasar tradisional untuk tingkat BIPA 2.
+
+
+LATIHAN
+-------
+1. Susun silabus BIPA 1 (8 pertemuan).
+2. Identifikasi kesalahan umum penutur bahasa Inggris.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar mesin penerjemah, analisis kesalahan otomatis, dan tutor percakapan bahasa Indonesia.
+
+KATA KUNCI
+----------
+BIPA, UKBI, penutur asing, interferensi, budaya

@@ -1,0 +1,37 @@
+﻿PUISI: UNSUR DAN ANALISIS
+=========================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Puisi adalah karya sastra yang memadatkan bahasa, bunyi, dan makna dalam larik dan bait.
+
+
+KONSEP KUNCI
+------------
+- Unsur fisik: diksi, pengimajian, kata konkret, bahasa figuratif, versifikasi (rima, irama), tipografi.
+- Unsur batin: tema, rasa, nada, amanat.
+- Majas: metafora, personifikasi, hiperbola, simile, ironi, metonimia.
+- Jenis: puisi lama (pantun, syair, gurindam, mantra), puisi baru, puisi kontemporer.
+- Rima: aabb, abab, abba.
+
+
+CONTOH
+------
+Pantun: dua larik sampiran, dua larik isi, rima abab.
+
+
+LATIHAN
+-------
+1. Parafrasekan sebuah puisi Chairil Anwar atau Sapardi Djoko Damono.
+2. Tulis satu pantun nasihat.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar generasi puisi, deteksi rima dan pola bunyi, serta analisis sentimen teks puitis.
+
+KATA KUNCI
+----------
+diksi, majas, rima, imaji, tipografi

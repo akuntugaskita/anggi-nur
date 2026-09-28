@@ -1,0 +1,37 @@
+﻿LINGUISTIK HISTORIS KOMPARATIF
+==============================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Kajian perkembangan bahasa dari masa ke masa dan perbandingan bahasa untuk menemukan kekerabatan.
+
+
+KONSEP KUNCI
+------------
+- Rumpun Austronesia: cabang Melayu-Polinesia, termasuk bahasa Melayu/Indonesia, Jawa, Batak, Tagalog.
+- Kata kerabat (kognat), korespondensi bunyi, rekonstruksi protobahasa.
+- Metode: perbandingan, glotokronologi, leksikostatistik.
+- Perubahan bahasa: bunyi, morfologi, sintaksis, leksikon.
+- Pinjaman: Sanskerta, Arab, Belanda, Portugis, Inggris.
+
+
+CONTOH
+------
+"Mata" (Indonesia), "mata" (Tagalog), "mata" (Jawa) menunjukkan kata kerabat.
+
+
+LATIHAN
+-------
+1. Kumpulkan 10 kata kerabat Indonesia-Jawa.
+2. Jelaskan langkah rekonstruksi protobahasa.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pemodelan bahasa rendah sumber daya dan transfer pengetahuan antarbahasa serumpun.
+
+KATA KUNCI
+----------
+Austronesia, kognat, protobahasa, glotokronologi

@@ -1,0 +1,37 @@
+﻿PENULISAN KREATIF
+=================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Penulisan kreatif adalah kegiatan menulis puisi, cerpen, drama, atau esai naratif dengan imajinasi dan gaya personal.
+
+
+KONSEP KUNCI
+------------
+- Sumber ide: pengalaman, pengamatan, memori, isu sosial.
+- Teknik: show, don't tell; deskripsi panca indra; dialog hidup; konflik.
+- Struktur cerpen: premis, konflik, klimaks, resolusi.
+- Puisi: pemadatan, metafora, imaji, rima bebas.
+- Proses: brainstorming, freewriting, revisi, umpan balik.
+
+
+CONTOH
+------
+"Hujan membasuh debu di halaman sekolah" lebih hidup daripada "Hari itu hujan".
+
+
+LATIHAN
+-------
+1. Tulis cerpen 500 kata dengan konflik jelas.
+2. Buat puisi 12 larik bertema rumah.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+LLM sebagai co-writer; dasar prompt kreatif dan evaluasi kreativitas keluaran AI.
+
+KATA KUNCI
+----------
+imajinasi, show don't tell, konflik, metafora

@@ -1,0 +1,37 @@
+﻿SASTRA LISAN DAN SASTRA DAERAH
+==============================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Sastra lisan diwariskan turun-temurun secara lisan dan menjadi kekayaan budaya daerah.
+
+
+KONSEP KUNCI
+------------
+- Bentuk: mantra, pantun, pepatah, dongeng, legenda, mitos, tradisi lisan.
+- Fungsi: hiburan, pendidikan, pengesahan budaya, kontrol sosial (Bascom).
+- Contoh Sumatera Utara: turi-turian, umpasa Batak, hoda-hoda, legenda Danau Toba.
+- Ciri: anonim, komunal, tradisional, bervariasi, formulaik.
+- Upaya pelestarian: dokumentasi, digitalisasi, pembelajaran muatan lokal.
+
+
+CONTOH
+------
+Legenda Danau Toba mengajarkan akibat pelanggaran janji.
+
+
+LATIHAN
+-------
+1. Kumpulkan satu cerita rakyat daerah dan tentukan fungsinya.
+2. Jelaskan ciri sastra lisan.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar transkripsi ASR tradisi lisan dan pelestarian bahasa daerah dengan AI.
+
+KATA KUNCI
+----------
+tradisi lisan, legenda, umpasa, anonim, formula

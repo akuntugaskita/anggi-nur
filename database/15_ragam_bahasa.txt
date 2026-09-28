@@ -1,0 +1,38 @@
+﻿RAGAM BAHASA INDONESIA
+======================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Ragam bahasa adalah variasi bahasa sesuai situasi dan tujuan pemakaian.
+
+
+KONSEP KUNCI
+------------
+- Berdasarkan media: lisan dan tulis.
+- Berdasarkan situasi: baku (resmi) dan nonbaku (santai).
+- Berdasarkan bidang: ilmiah, jurnalistik, hukum, sastra, iklan.
+- Ciri ragam ilmiah: objektif, lugas, logis, sistematis, impersonal.
+- Bahasa baku: kaidah ejaan, kosakata baku, kalimat lengkap.
+- Kaidah penggunaan bahasa yang baik dan benar.
+
+
+CONTOH
+------
+Baku: "Saya tidak mengetahui hal itu." Nonbaku: "Gue nggak tau soal itu."
+
+
+LATIHAN
+-------
+1. Ubah percakapan santai menjadi ragam baku.
+2. Bandingkan ciri bahasa jurnalistik dan ilmiah.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar klasifikasi register dan normalisasi bahasa gaul ke bahasa baku.
+
+KATA KUNCI
+----------
+ragam baku, ragam lisan, ragam ilmiah, situasi

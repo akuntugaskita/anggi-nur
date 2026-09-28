@@ -1,0 +1,37 @@
+﻿FOLKLOR
+=======
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Folklor adalah kebudayaan kolektif yang diwariskan turun-temurun dalam versi berbeda, secara lisan atau contoh disertai gerak isyarat.
+
+
+KONSEP KUNCI
+------------
+- Menurut James Danandjaja: folklor lisan, sebagian lisan, bukan lisan.
+- Folklor lisan: bahasa rakyat, ungkapan tradisional, teka-teki, puisi rakyat, cerita prosa rakyat, nyanyian rakyat.
+- Sebagian lisan: kepercayaan rakyat, permainan rakyat, tari, upacara.
+- Bukan lisan: arsitektur rakyat, kerajinan, pakaian, obat tradisional.
+- Cerita prosa rakyat: mite, legenda, dongeng.
+
+
+CONTOH
+------
+Cerita Malin Kundang (legenda), Si Kancil (fabel/dongeng).
+
+
+LATIHAN
+-------
+1. Klasifikasikan lima bentuk folklor di daerahmu.
+2. Bedakan mite, legenda, dongeng.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar klasifikasi cerita rakyat, pengindeksan motif, dan pembuatan dataset budaya.
+
+KATA KUNCI
+----------
+folklor, mite, legenda, dongeng, kolektif

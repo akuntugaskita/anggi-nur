@@ -1,0 +1,37 @@
+﻿SASTRA BANDINGAN
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Sastra bandingan membandingkan karya sastra lintas bahasa, budaya, atau disiplin.
+
+
+KONSEP KUNCI
+------------
+- Aliran Prancis: pengaruh dan pertalian (influence).
+- Aliran Amerika: analisis paralel dan interdisipliner.
+- Intertekstualitas (Kristeva): teks sebagai mozaik kutipan; hipogram dan transformasi (Riffaterre).
+- Tema, motif, tokoh, gaya sebagai objek banding.
+- Resepsi, adaptasi, dan terjemahan.
+
+
+CONTOH
+------
+Perbandingan tema perkawinan paksa dalam "Siti Nurbaya" dan roman Eropa.
+
+
+LATIHAN
+-------
+1. Bandingkan dua cerpen bertema kemiskinan.
+2. Identifikasi hipogram sebuah puisi.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar deteksi intertekstualitas lewat kemiripan teks dan embedding lintas bahasa.
+
+KATA KUNCI
+----------
+intertekstual, hipogram, pengaruh, paralel

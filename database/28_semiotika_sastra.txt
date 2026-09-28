@@ -1,0 +1,37 @@
+﻿SEMIOTIKA SASTRA
+================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Semiotika mengkaji tanda dan sistem makna dalam karya sastra.
+
+
+KONSEP KUNCI
+------------
+- Saussure: penanda (signifier) dan petanda (signified).
+- Peirce: ikon, indeks, simbol; representamen, objek, interpretan.
+- Barthes: denotasi, konotasi, mitos.
+- Riffaterre: pembacaan heuristik dan hermeneutik.
+- Puisi sebagai sistem tanda bermakna ganda.
+
+
+CONTOH
+------
+Kata "senja" sebagai simbol kesedihan atau akhir kehidupan.
+
+
+LATIHAN
+-------
+1. Klasifikasikan tanda ikon, indeks, simbol pada satu puisi.
+2. Lakukan pembacaan heuristik dan hermeneutik pada puisi pendek.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar AI multimodal untuk menafsirkan tanda, simbol, gambar, dan teks bersama.
+
+KATA KUNCI
+----------
+tanda, simbol, ikon, indeks, heuristik

@@ -1,0 +1,38 @@
+﻿PENGANTAR TEORI SASTRA
+======================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Teori sastra membahas hakikat, unsur, dan cara memahami karya sastra.
+
+
+KONSEP KUNCI
+------------
+- Hakikat sastra: imajinatif, estetis, kreatif, bermakna.
+- Fungsi sastra (Horace): dulce (menghibur) dan utile (bermanfaat).
+- Genre: puisi, prosa, drama.
+- Empat orientasi Abrams: mimetik, pragmatik, ekspresif, objektif.
+- Struktur pembentuk: intrinsik dan ekstrinsik.
+- Tokoh: Aristoteles (mimesis), Plato, René Wellek dan Austin Warren.
+
+
+CONTOH
+------
+Pendekatan mimetik menilai novel sebagai cermin kehidupan sosial.
+
+
+LATIHAN
+-------
+1. Jelaskan empat pendekatan Abrams.
+2. Bedakan sastra dan nonsastra.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Kerangka dasar analisis sastra komputasional dan anotasi teks sastra.
+
+KATA KUNCI
+----------
+mimesis, genre, pendekatan, estetika, unsur intrinsik

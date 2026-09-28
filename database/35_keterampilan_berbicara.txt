@@ -1,0 +1,37 @@
+﻿KETERAMPILAN BERBICARA
+======================
+Kategori: Keterampilan Berbahasa
+
+
+DESKRIPSI
+---------
+Berbicara adalah kemampuan mengungkapkan gagasan secara lisan dengan lafal, kosakata, dan struktur yang tepat.
+
+
+KONSEP KUNCI
+------------
+- Jenis: diskusi, debat, pidato, presentasi, wawancara, bercerita, MC.
+- Aspek kebahasaan: lafal, intonasi, diksi, kalimat. Aspek nonkebahasaan: sikap, gestur, kontak mata, volume, kelancaran.
+- Metode pidato: impromptu, manuskrip, memoriter, ekstemporan.
+- Struktur pidato: pembuka, isi, penutup.
+- Etika: santun, menghargai lawan bicara.
+
+
+CONTOH
+------
+Presentasi 5 menit tentang proposal penelitian dengan tanya jawab.
+
+
+LATIHAN
+-------
+1. Susun kerangka pidato bertema literasi.
+2. Nilai teman memakai rubrik berbicara.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar penilaian pelafalan otomatis, text-to-speech, dan agen dialog lisan.
+
+KATA KUNCI
+----------
+pidato, debat, intonasi, presentasi, ekstemporan

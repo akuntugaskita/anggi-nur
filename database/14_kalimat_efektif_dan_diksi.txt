@@ -1,0 +1,37 @@
+﻿KALIMAT EFEKTIF DAN DIKSI
+=========================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Pemilihan kata (diksi) dan penyusunan kalimat efektif menentukan kejelasan komunikasi.
+
+
+KONSEP KUNCI
+------------
+- Diksi: ketepatan, kesesuaian, kecermatan, kebakuan.
+- Denotasi-konotasi; kata umum-khusus; kata abstrak-konkret.
+- Kesalahan umum: pleonasme (naik ke atas), ambiguitas, kontaminasi, hiperkorek, tidak paralel.
+- Ciri kalimat efektif: kesejajaran, penekanan, kehematan, kevariasian.
+- Penekanan: inversi, repetisi, partikel -lah, -pun.
+
+
+CONTOH
+------
+"Para siswa-siswa" (pleonasme) menjadi "para siswa" atau "siswa-siswa".
+
+
+LATIHAN
+-------
+1. Perbaiki 10 kalimat yang tidak efektif.
+2. Cari kata baku untuk: aktifitas, analisa, apotik.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar penyuntingan otomatis, paraphrase generation, dan deteksi pleonasme atau kalimat tidak efektif.
+
+KATA KUNCI
+----------
+diksi, pleonasme, paralelisme, kalimat efektif

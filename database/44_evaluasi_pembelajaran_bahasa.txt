@@ -1,0 +1,38 @@
+﻿MEDIA DAN TEKNOLOGI PEMBELAJARAN BAHASA
+=======================================
+Kategori: Pendidikan Bahasa
+
+
+DESKRIPSI
+---------
+Media pembelajaran adalah alat penyampai pesan untuk meningkatkan motivasi dan pemahaman siswa.
+
+
+KONSEP KUNCI
+------------
+- Jenis: visual, audio, audiovisual, interaktif, berbasis web.
+- Contoh: Wordwall, Canva, Quizizz, Kahoot, Padlet, Google Classroom, video animasi.
+- Kerucut pengalaman Edgar Dale.
+- Model TPACK; prinsip pemilihan media (tujuan, karakter siswa, kemudahan, biaya).
+- Media untuk siswa berkebutuhan khusus: gambar, warna, suara, permainan sederhana.
+- Literasi digital dan etika penggunaan.
+
+
+CONTOH
+------
+Wordwall: permainan mencocokkan gambar dan kosakata.
+
+
+LATIHAN
+-------
+1. Rancang media interaktif kosakata kelas 1.
+2. Evaluasi media dengan lembar validasi ahli.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar pembuatan media interaktif, kuis, dan ilustrasi dengan AI, dikaitkan kerangka TPACK.
+
+KATA KUNCI
+----------
+media, TPACK, Wordwall, interaktif, literasi digital

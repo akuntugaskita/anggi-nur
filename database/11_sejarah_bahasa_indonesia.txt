@@ -1,0 +1,39 @@
+﻿SEJARAH DAN PERKEMBANGAN BAHASA INDONESIA
+=========================================
+Kategori: Linguistik
+
+
+DESKRIPSI
+---------
+Bahasa Indonesia berkembang dari bahasa Melayu yang menjadi lingua franca di Nusantara.
+
+
+KONSEP KUNCI
+------------
+- Bukti awal: prasasti Kedukan Bukit, Talang Tuo, Kota Kapur, Karang Brahi (abad ke-7, Sriwijaya).
+- Melayu pasar dan Melayu tinggi; peran Balai Pustaka.
+- Sumpah Pemuda 28 Oktober 1928: bahasa persatuan.
+- Kongres Bahasa Indonesia I (Solo, 1938).
+- UUD 1945 Pasal 36: bahasa negara.
+- Ejaan: Van Ophuijsen (1901), Republik/Soewandi (1947), EYD (1972), EBI (2015), EYD Edisi V (2022).
+- Fungsi: bahasa nasional dan bahasa negara.
+
+
+CONTOH
+------
+Perubahan ejaan "tjinta" menjadi "cinta" (1972).
+
+
+LATIHAN
+-------
+1. Susun lini masa perkembangan ejaan.
+2. Jelaskan fungsi bahasa nasional dan bahasa negara.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dipakai untuk normalisasi ejaan lama dan OCR naskah lama menjadi korpus digital.
+
+KATA KUNCI
+----------
+Melayu, Sumpah Pemuda, ejaan, lingua franca

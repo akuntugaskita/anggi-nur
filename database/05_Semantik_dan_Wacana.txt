@@ -1,0 +1,35 @@
+AI TUTOR
+MATERI 5: SEMANTIK DAN WACANA
+
+A. Pengertian Semantik
+Semantik adalah cabang linguistik yang mempelajari makna dalam bahasa.
+
+B. Makna Leksikal dan Gramatikal
+Makna leksikal adalah makna yang berkaitan dengan kata secara dasar.
+Makna gramatikal muncul akibat proses gramatikal, seperti afiksasi atau pengulangan.
+Contoh: kata jalan memiliki makna leksikal tertentu, sedangkan berjalan memperoleh makna gramatikal dari imbuhan ber-.
+
+C. Sinonim, Antonim, Homonim, Homofon, dan Polisemi
+1. Sinonim: kata yang memiliki kemiripan makna. Contoh: pintar dan cerdas.
+2. Antonim: kata yang memiliki makna berlawanan. Contoh: besar dan kecil.
+3. Homonim: bentuk yang sama tetapi maknanya berbeda.
+4. Homofon: bunyinya sama atau mirip, tetapi bentuk dan maknanya berbeda.
+5. Polisemi: satu bentuk kata memiliki beberapa makna yang masih berkaitan.
+
+D. Makna Denotatif dan Konotatif
+Makna denotatif merupakan makna lugas atau makna dasar.
+Makna konotatif merupakan makna tambahan yang muncul karena asosiasi, nilai rasa, atau konteks.
+Contoh: kata bunga secara denotatif adalah bagian tumbuhan, tetapi dalam konteks tertentu dapat digunakan sebagai ungkapan untuk sesuatu yang indah.
+
+E. Pengertian Wacana
+Wacana adalah satuan bahasa yang lebih luas daripada kalimat dan memiliki keterkaitan makna sehingga membentuk satu kesatuan yang utuh.
+
+F. Kohesi dan Koherensi
+Kohesi adalah keterkaitan bentuk antarbagian dalam wacana, misalnya melalui kata rujukan, konjungsi, pengulangan, dan substitusi.
+Koherensi adalah keterkaitan makna atau gagasan sehingga wacana terasa logis dan padu.
+
+G. Konteks
+Makna suatu ujaran dapat dipengaruhi konteks, yaitu situasi, peserta komunikasi, tempat, waktu, tujuan, dan hubungan antarpenutur.
+
+RANGKUMAN
+Semantik mempelajari makna, sedangkan wacana mempelajari penggunaan bahasa dalam satuan yang lebih luas dan utuh. Pemahaman makna harus mempertimbangkan kata, hubungan antarkata, dan konteks.

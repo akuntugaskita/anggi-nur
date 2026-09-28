@@ -1,0 +1,36 @@
+﻿PROSA FIKSI: UNSUR INTRINSIK DAN ANALISIS
+=========================================
+Kategori: Sastra
+
+
+DESKRIPSI
+---------
+Prosa fiksi meliputi cerpen, novelet, dan novel yang dibangun oleh unsur intrinsik dan ekstrinsik.
+
+
+KONSEP KUNCI
+------------
+- Tema, amanat, tokoh dan penokohan (analitik, dramatik), alur (maju, mundur, campuran), latar (tempat, waktu, sosial), sudut pandang (orang pertama, ketiga), gaya bahasa.
+- Struktur alur: pengenalan, konflik, klimaks, antiklimaks, penyelesaian.
+- Tokoh: protagonis, antagonis, bulat, datar.
+- Perbedaan cerpen dan novel: panjang, kompleksitas, jumlah konflik.
+
+
+CONTOH
+------
+Novel "Laskar Pelangi" menonjolkan latar sosial Belitung dan tema perjuangan pendidikan.
+
+
+LATIHAN
+-------
+1. Analisis unsur intrinsik satu cerpen pilihan.
+2. Buat diagram alur cerpen tersebut.
+
+
+RELEVANSI UNTUK AI / NLP
+------------------------
+Dasar named entity recognition tokoh dan latar, serta ekstraksi alur cerita otomatis.
+
+KATA KUNCI
+----------
+alur, tokoh, latar, sudut pandang, tema
