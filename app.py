@@ -9,7 +9,7 @@ from collections import Counter
 # =========================================================
 
 st.set_page_config(
-    page_title="AI Tutor Bahasa Indonesia - Anggi Nur",
+    page_title="AI Tutor Bahasa Indonesia Anggi Nur",
     page_icon="📚",
     layout="wide"
 )
@@ -195,11 +195,10 @@ database = baca_database()
 # HEADER APLIKASI
 # =========================================================
 
-st.title("📚 AI Tutor Bahasa Indonesia — Anggi Nur")
+st.title("📚 AI Tutor Bahasa Indonesia Anggi Nur")
 
 st.write(
-    "Sistem pembelajaran berbasis Python, Streamlit, dan Knowledge Base TXT "
-    "karya **Anggi Nur**."
+    "Sistem pembelajaran berbasis Python, Streamlit, dan Knowledge Base TXT."
 )
 
 st.divider()
@@ -308,4 +307,4 @@ if tombol:
 
 st.divider()
 
-st.caption("AI Tutor Bahasa Indonesia by Anggi Nur | Python + Streamlit + TXT Knowledge Base")
+st.caption("AI Tutor Bahasa Indonesia Anggi Nur | Python + Streamlit + TXT Knowledge Base")
